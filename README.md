@@ -4,9 +4,9 @@ And I'm an indie developer
 I make games with a heavy, tactile, industrial atmosphere. Heavily inspired by the gritty, claustrophobic vibes of Mike Klubnika's work. To me, the sound design and atmosphere are just as important as the gameplay itself.
 
 <p align="center">
-  <img src="Screenshot-1.png" width="30%" />
-  <img src="Screenshot-2.png" width="30%" />
-  <img src="Screenshot-3.png" width="30%" />
+  <img src="Screenshot-1.png" width="33%" />
+  <img src="Screenshot-2.png" width="33%" />
+  <img src="Screenshot-3.png" width="33%" />
 </p>
 
 ### What I actually do here:
