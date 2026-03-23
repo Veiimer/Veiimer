@@ -1,16 +1,21 @@
-## Hi there 👋
+👋 Hey. I’m **Veiimer**. 
+And I'm an indie developer
 
-<!--
-**Veiimer/Veiimer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I make games with a heavy, tactile, industrial atmosphere. Heavily inspired by the gritty, claustrophobic vibes of Mike Klubnika's work. To me, the sound design and atmosphere are just as important as the gameplay itself.
 
-Here are some ideas to get you started:
+### What I actually do here:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*   **The Code:** **Godot**, **GDScript**. Trying to make things work without breaking the engine *too* much.
+*   **The Visuals:** **Blender**. Building clean topology just to cover it in grime, noise, and low-res textures later. 
+*   **Music and sounds:** **FL Studio**. The most important part. I write dark ambient and industrial tracks that make you feel slightly uncomfortable (I hope).
+
+### 😪 Currently losing sleep over:
+*   **Do Not Feed The Cow With Meat** - short horror game about cows?... 
+*   *Status:* Writing the GDD.
+
+---
+
+### 📡 Where to find my stuff:
+I don't post much corporate stuff, but I drop devlogs, tracks, and renders here:
+
+[Telegram](https://t.me/+fD0GvE_gVJZkZWFi) • [Itch.io](https://veiimer.itch.io) • [Pinterest](https://pin.it/ssGzop4wF)
