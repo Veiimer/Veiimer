@@ -17,7 +17,7 @@ I make games with a heavy, tactile, industrial atmosphere. Heavily inspired by t
 
 ### 😪 Currently losing sleep over:
 *   **Do Not Feed The Cow With Meat** - short horror game about cows?... 
-*   *Status:* Writing the GDD.
+*   *Status:* Creating a location.
 
 ---
 
