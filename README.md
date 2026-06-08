@@ -6,7 +6,7 @@ I make games with a heavy, tactile, industrial atmosphere. Heavily inspired by t
 <p align="center">
   <img src="Screenshot-1.png" width="33%" />
   <img src="Screenshot-2.png" width="33%" />
-  <img src="Screenshot-3.png" width="33%" />
+  <img src="Снимок экрана 2026-06-08 111744.png" width="33%" />
 </p>
 
 ### What I actually do here:
